@@ -1,2 +1,2 @@
 # MemoryGame
-Небольшая игра на Unity в рамках обучения в SkillFactory
+Small game I made during my courses. It's poorly written, but it's an old project
